@@ -1,0 +1,3 @@
+﻿  ClientNPct.cpp
+E:\1Uni\ПСП(Шиман)\Лабораторная 6\ClientNPct\ClientNPct\ClientNPct.cpp(164,8): warning C4101: cbWritten: неиспользованная локальная переменная
+  ClientNPct.vcxproj -> E:\1Uni\ПСП(Шиман)\Лабораторная 6\ClientNPct\Debug\ClientNPct.exe

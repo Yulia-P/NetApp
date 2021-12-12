@@ -1,0 +1,3 @@
+﻿  ServerNP.cpp
+E:\1Uni\ПСП(Шиман)\Лабораторная 6\ServerNP\ServerNP\ServerNP.cpp(157,9): warning C4101: hPipe: неиспользованная локальная переменная
+  ServerNP.vcxproj -> E:\1Uni\ПСП(Шиман)\Лабораторная 6\ServerNP\Debug\ServerNP.exe
