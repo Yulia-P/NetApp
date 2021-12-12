@@ -1,0 +1,5 @@
+﻿  ClientB.cpp
+d:\ПСП\ClientB\ClientB.cpp(177,5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\ПСП\ClientB\ClientB.cpp(233,127): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+d:\ПСП\ClientB\ClientB.cpp(185,20): warning C4101: tm: неиспользованная локальная переменная
+  ClientB.vcxproj -> D:\ПСП\ClientB\Debug\ClientB.exe

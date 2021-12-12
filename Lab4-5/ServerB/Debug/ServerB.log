@@ -1,0 +1,6 @@
+﻿  ServerB.cpp
+E:\1Uni\ПСП(Шиман)\Лабораторная 4-5\ServerB\ServerB.cpp(231,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\1Uni\ПСП(Шиман)\Лабораторная 4-5\ServerB\ServerB.cpp(238,16): warning C4101: tm: неиспользованная локальная переменная
+E:\1Uni\ПСП(Шиман)\Лабораторная 4-5\ServerB\ServerB.cpp(243,9): warning C4101: averageCorrection: неиспользованная локальная переменная
+E:\1Uni\ПСП(Шиман)\Лабораторная 4-5\ServerB\ServerB.cpp(242,13): warning C4101: c: неиспользованная локальная переменная
+  ServerB.vcxproj -> E:\1Uni\ПСП(Шиман)\Лабораторная 4-5\ServerB\Debug\ServerB.exe

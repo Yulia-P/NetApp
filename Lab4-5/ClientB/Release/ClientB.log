@@ -1,0 +1,10 @@
+﻿  ClientB.cpp
+E:\1Uni\ПСП(Шиман)\Лабораторная 4-5\ClientB\ClientB.cpp(183,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\1Uni\ПСП(Шиман)\Лабораторная 4-5\ClientB\ClientB.cpp(191,16): warning C4101: tm: неиспользованная локальная переменная
+E:\1Uni\ПСП(Шиман)\Лабораторная 4-5\ClientB\ClientB.cpp(184,12): warning C4101: cS: неиспользованная локальная переменная
+  Создание кода
+  1 of 112 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ClientB.vcxproj -> E:\1Uni\ПСП(Шиман)\Лабораторная 4-5\ClientB\Release\ClientB.exe
