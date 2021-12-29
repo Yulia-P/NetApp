@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  dllmain.cpp
+E:\lab8\ConcurrentServer\ServLibrary\RandServer.h(39,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     Создается библиотека E:\lab8\ConcurrentServer\Debug\ServLibrary.lib и объект E:\lab8\ConcurrentServer\Debug\ServLibrary.exp
+  ServLibrary.vcxproj -> E:\lab8\ConcurrentServer\Debug\ServLibrary.dll

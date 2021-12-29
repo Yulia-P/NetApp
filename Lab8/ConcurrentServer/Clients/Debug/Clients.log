@@ -1,0 +1,3 @@
+﻿  Clients.cpp
+E:\lab8\ConcurrentServer\Clients\Clients.cpp(102,3): warning C4101: obuf: неиспользованная локальная переменная
+  Clients.vcxproj -> E:\lab8\ConcurrentServer\Debug\Clients.exe
